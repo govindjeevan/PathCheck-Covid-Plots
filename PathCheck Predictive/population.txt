@@ -1,0 +1,39 @@
+region, population
+Uttar Pradesh,237882725
+Bihar,124799926
+Maharashtra,123144223
+West Bengal,99609303
+Madhya Pradesh,85358965
+Rajasthan,81032689
+Tamil Nadu,77841267
+Karnataka,67562686
+Gujarat,63872399
+Andhra Pradesh,53903393
+Odisha,46356334
+Telangana,39362732
+Jharkhand,38593948
+Kerala,35699443
+Assam,35607039
+Punjab,30141373
+Chhattisgarh,29436231
+Haryana,28204692
+Delhi,18710922
+Jammu and Kashmir,13606320
+Uttarakhand,11250858
+Himachal Pradesh,7451955
+Tripura,4169794
+Meghalaya,3366710
+Manipur,3091545
+Nagaland,2249695
+Goa,1586250
+Arunachal Pradesh,1570458
+Puducherry,1413542
+Mizoram,1239244
+Chandigarh,1158473
+Sikkim,690251
+Dadara & Nagar Havelli,466000
+Daman & Diu,330000
+Dadra and Nagar Haveli and Daman and Diu,615724
+Andaman and Nicobar Islands,417036
+Ladakh,289023
+Lakshadweep,73183
